@@ -1,0 +1,2 @@
+# UnityEditorUtil
+UnityEditor拡張のユーティリティを纏めていくプロジェクト。
